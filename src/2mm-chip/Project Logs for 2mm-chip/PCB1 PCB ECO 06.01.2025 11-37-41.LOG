@@ -1,0 +1,98 @@
+Removed Pin From Net: NetName=RF1 Pin=U1-2
+Removed Pin From Net: NetName=RF1 Pin=U1-2
+Removed Pin From Net: NetName=RF1 Pin=U1-3
+Removed Pin From Net: NetName=RF1 Pin=U1-3
+Removed Pin From Net: NetName=RF1 Pin=U1-4
+Removed Pin From Net: NetName=RF1 Pin=U1-4
+Added Pin To Net: NetName=GND Pin=S2-1
+Added Pin To Net: NetName=GND Pin=S2-2
+Added Pin To Net: NetName=GND Pin=S2-3
+Added Pin To Net: NetName=GND Pin=S2-4
+Added Pin To Net: NetName=GND Pin=S3-1
+Added Pin To Net: NetName=GND Pin=S3-2
+Added Pin To Net: NetName=GND Pin=S3-3
+Added Pin To Net: NetName=GND Pin=S3-4
+Added Pin To Net: NetName=GND Pin=S4-1
+Added Pin To Net: NetName=GND Pin=S4-2
+Added Pin To Net: NetName=GND Pin=S4-3
+Added Pin To Net: NetName=GND Pin=S4-4
+Added Pin To Net: NetName=GND Pin=S5-1
+Added Pin To Net: NetName=GND Pin=S5-2
+Added Pin To Net: NetName=GND Pin=S5-3
+Added Pin To Net: NetName=GND Pin=S5-4
+Added Pin To Net: NetName=GND Pin=S6-1
+Added Pin To Net: NetName=GND Pin=S6-2
+Added Pin To Net: NetName=GND Pin=S6-3
+Added Pin To Net: NetName=GND Pin=S6-4
+Added Pin To Net: NetName=GND Pin=S7-1
+Added Pin To Net: NetName=GND Pin=S7-2
+Added Pin To Net: NetName=GND Pin=S7-3
+Added Pin To Net: NetName=GND Pin=S7-4
+Added Pin To Net: NetName=GND Pin=S8-1
+Added Pin To Net: NetName=GND Pin=S8-2
+Added Pin To Net: NetName=GND Pin=S8-3
+Added Pin To Net: NetName=GND Pin=S8-4
+Added Pin To Net: NetName=GND Pin=S9-1
+Added Pin To Net: NetName=GND Pin=S9-2
+Added Pin To Net: NetName=GND Pin=S9-3
+Added Pin To Net: NetName=GND Pin=S9-4
+Added Pin To Net: NetName=GND Pin=S10-1
+Added Pin To Net: NetName=GND Pin=S10-2
+Added Pin To Net: NetName=GND Pin=S10-3
+Added Pin To Net: NetName=GND Pin=S10-4
+Added Pin To Net: NetName=GND Pin=S11-1
+Added Pin To Net: NetName=GND Pin=S11-2
+Added Pin To Net: NetName=GND Pin=S11-3
+Added Pin To Net: NetName=GND Pin=S11-4
+Added Pin To Net: NetName=GND Pin=S12-1
+Added Pin To Net: NetName=GND Pin=S12-2
+Added Pin To Net: NetName=GND Pin=S12-3
+Added Pin To Net: NetName=GND Pin=S12-4
+Added Pin To Net: NetName=RF2 Pin=S2-5
+Added Pin To Net: NetName=RF2 Pin=U1-2
+Added Pin To Net: NetName=RF2 Pin=U1-2
+Added Net: Name=RF2
+Added Pin To Net: NetName=RF3_N Pin=S7-5
+Added Pin To Net: NetName=RF3_N Pin=U1-4
+Added Pin To Net: NetName=RF3_N Pin=U1-4
+Added Net: Name=RF3_N
+Added Pin To Net: NetName=RF3_P Pin=S5-5
+Added Pin To Net: NetName=RF3_P Pin=U1-3
+Added Pin To Net: NetName=RF3_P Pin=U1-3
+Added Net: Name=RF3_P
+Added Pin To Net: NetName=RF5 Pin=S9-5
+Added Pin To Net: NetName=RF5 Pin=U1-5
+Added Pin To Net: NetName=RF5 Pin=U1-5
+Added Net: Name=RF5
+Added Pin To Net: NetName=RF6 Pin=S11-5
+Added Pin To Net: NetName=RF6 Pin=U1-6
+Added Pin To Net: NetName=RF6 Pin=U1-6
+Added Net: Name=RF6
+Added Pin To Net: NetName=RF7 Pin=S3-5
+Added Pin To Net: NetName=RF7 Pin=U1-25
+Added Pin To Net: NetName=RF7 Pin=U1-25
+Added Net: Name=RF7
+Added Pin To Net: NetName=RF8 Pin=S4-5
+Added Pin To Net: NetName=RF8 Pin=U1-26
+Added Pin To Net: NetName=RF8 Pin=U1-26
+Added Net: Name=RF8
+Added Pin To Net: NetName=RF9_N Pin=S8-5
+Added Pin To Net: NetName=RF9_N Pin=U1-28
+Added Pin To Net: NetName=RF9_N Pin=U1-28
+Added Net: Name=RF9_N
+Added Pin To Net: NetName=RF9_P Pin=S6-5
+Added Pin To Net: NetName=RF9_P Pin=U1-27
+Added Pin To Net: NetName=RF9_P Pin=U1-27
+Added Net: Name=RF9_P
+Added Pin To Net: NetName=RF11 Pin=S10-5
+Added Pin To Net: NetName=RF11 Pin=U1-29
+Added Pin To Net: NetName=RF11 Pin=U1-29
+Added Net: Name=RF11
+Added Pin To Net: NetName=RF12 Pin=S12-5
+Added Pin To Net: NetName=RF12 Pin=U1-30
+Added Pin To Net: NetName=RF12 Pin=U1-30
+Added Net: Name=RF12
+Added Member To Class: ClassName=sheet1 Member=Component C? C0603
+Added Member To Class: ClassName=sheet1 Member=Component C? C0603
+Added Member To Class: ClassName=sheet1 Member=Component C? C0603
+Added Member To Class: ClassName=sheet1 Member=Component C? C0603

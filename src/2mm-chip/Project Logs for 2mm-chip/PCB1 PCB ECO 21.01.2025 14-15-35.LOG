@@ -1,0 +1,31 @@
+Added Component: Designator=S27(BWSMA)
+Added Component: Designator=S28(BWSMA)
+Added Component: Designator=S29(BWSMA)
+Added Component: Designator=S30(BWSMA)
+Added Pin To Net: NetName=GND Pin=S27-1
+Added Pin To Net: NetName=GND Pin=S27-2
+Added Pin To Net: NetName=GND Pin=S27-3
+Added Pin To Net: NetName=GND Pin=S27-4
+Added Pin To Net: NetName=GND Pin=S28-1
+Added Pin To Net: NetName=GND Pin=S28-2
+Added Pin To Net: NetName=GND Pin=S28-3
+Added Pin To Net: NetName=GND Pin=S28-4
+Added Pin To Net: NetName=GND Pin=S29-1
+Added Pin To Net: NetName=GND Pin=S29-2
+Added Pin To Net: NetName=GND Pin=S29-3
+Added Pin To Net: NetName=GND Pin=S29-4
+Added Pin To Net: NetName=GND Pin=S30-1
+Added Pin To Net: NetName=GND Pin=S30-2
+Added Pin To Net: NetName=GND Pin=S30-3
+Added Pin To Net: NetName=GND Pin=S30-4
+Added Pin To Net: NetName=RF_N Pin=S29-5
+Added Pin To Net: NetName=RF_N Pin=S30-5
+Added Net: Name=RF_N
+Added Pin To Net: NetName=RF_P Pin=S27-5
+Added Pin To Net: NetName=RF_P Pin=S28-5
+Added Net: Name=RF_P
+Added Differential Pair: Name=RF
+Added Member To Class: ClassName=sheet1 Member=Component S27 BWSMA
+Added Member To Class: ClassName=sheet1 Member=Component S28 BWSMA
+Added Member To Class: ClassName=sheet1 Member=Component S29 BWSMA
+Added Member To Class: ClassName=sheet1 Member=Component S30 BWSMA

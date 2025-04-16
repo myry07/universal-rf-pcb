@@ -1,0 +1,155 @@
+Change Component Designator: OldDesignator=S? NewDesignator=S1
+Change Component Designator: OldDesignator=S? NewDesignator=S2
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Added Component: Designator=C1(C0603)
+Added Component: Designator=C2(C0603)
+Added Component: Designator=C3(C0603)
+Added Component: Designator=C4(C0603)
+Added Component: Designator=C5(C0603)
+Added Component: Designator=C6(C0603)
+Added Component: Designator=C7(C0603)
+Added Component: Designator=C8(C0603)
+Added Component: Designator=C9(C0603)
+Added Component: Designator=C10(C0603)
+Added Component: Designator=C11(C0603)
+Added Component: Designator=C12(C0603)
+Added Component: Designator=C13(C0603)
+Added Component: Designator=C14(C0603)
+Added Component: Designator=C15(C0603)
+Added Component: Designator=C16(C0603)
+Added Component: Designator=C17(C0603)
+Added Component: Designator=C18(C0603)
+Added Component: Designator=C19(C0603)
+Added Component: Designator=C?(C0603)
+Added Component: Designator=C?(C0603)
+Added Component: Designator=C?(C0603)
+Added Component: Designator=C?(C0603)
+Added Component: Designator=C?(C0603)
+Added Component: Designator=H1(20P)
+Added Component: Designator=H2(20P)
+Added Component: Designator=S3(BWSMA)
+Added Component: Designator=S4(BWSMA)
+Added Component: Designator=S5(BWSMA)
+Added Component: Designator=S6(BWSMA)
+Added Component: Designator=S7(BWSMA)
+Added Component: Designator=S8(BWSMA)
+Added Component: Designator=S9(BWSMA)
+Added Component: Designator=S10(BWSMA)
+Added Component: Designator=S11(BWSMA)
+Added Component: Designator=S12(BWSMA)
+Added Pin To Net: NetName=GND Pin=S1-1
+Added Pin To Net: NetName=GND Pin=S1-2
+Added Pin To Net: NetName=GND Pin=S1-3
+Added Pin To Net: NetName=GND Pin=S1-4
+Added Net: Name=GND
+Added Pin To Net: NetName=NetS2_1 Pin=S2-1
+Added Pin To Net: NetName=NetS2_1 Pin=S2-2
+Added Net: Name=NetS2_1
+Added Pin To Net: NetName=NetS2_3 Pin=S2-3
+Added Pin To Net: NetName=NetS2_3 Pin=S2-4
+Added Net: Name=NetS2_3
+Added Pin To Net: NetName=NetS3_1 Pin=S3-1
+Added Pin To Net: NetName=NetS3_1 Pin=S3-2
+Added Net: Name=NetS3_1
+Added Pin To Net: NetName=NetS3_3 Pin=S3-3
+Added Pin To Net: NetName=NetS3_3 Pin=S3-4
+Added Net: Name=NetS3_3
+Added Pin To Net: NetName=NetS4_1 Pin=S4-1
+Added Pin To Net: NetName=NetS4_1 Pin=S4-2
+Added Net: Name=NetS4_1
+Added Pin To Net: NetName=NetS4_3 Pin=S4-3
+Added Pin To Net: NetName=NetS4_3 Pin=S4-4
+Added Net: Name=NetS4_3
+Added Pin To Net: NetName=NetS5_1 Pin=S5-1
+Added Pin To Net: NetName=NetS5_1 Pin=S5-2
+Added Net: Name=NetS5_1
+Added Pin To Net: NetName=NetS5_3 Pin=S5-3
+Added Pin To Net: NetName=NetS5_3 Pin=S5-4
+Added Net: Name=NetS5_3
+Added Pin To Net: NetName=NetS6_1 Pin=S6-1
+Added Pin To Net: NetName=NetS6_1 Pin=S6-2
+Added Net: Name=NetS6_1
+Added Pin To Net: NetName=NetS6_3 Pin=S6-3
+Added Pin To Net: NetName=NetS6_3 Pin=S6-4
+Added Net: Name=NetS6_3
+Added Pin To Net: NetName=NetS7_1 Pin=S7-1
+Added Pin To Net: NetName=NetS7_1 Pin=S7-2
+Added Net: Name=NetS7_1
+Added Pin To Net: NetName=NetS8_1 Pin=S8-1
+Added Pin To Net: NetName=NetS8_1 Pin=S8-2
+Added Net: Name=NetS8_1
+Added Pin To Net: NetName=NetS8_3 Pin=S8-3
+Added Pin To Net: NetName=NetS8_3 Pin=S8-4
+Added Net: Name=NetS8_3
+Added Pin To Net: NetName=NetS9_1 Pin=S9-1
+Added Pin To Net: NetName=NetS9_1 Pin=S9-2
+Added Net: Name=NetS9_1
+Added Pin To Net: NetName=NetS9_3 Pin=S9-3
+Added Pin To Net: NetName=NetS9_3 Pin=S9-4
+Added Net: Name=NetS9_3
+Added Pin To Net: NetName=NetS10_1 Pin=S10-1
+Added Pin To Net: NetName=NetS10_1 Pin=S10-2
+Added Net: Name=NetS10_1
+Added Pin To Net: NetName=NetS10_3 Pin=S10-3
+Added Pin To Net: NetName=NetS10_3 Pin=S10-4
+Added Net: Name=NetS10_3
+Added Pin To Net: NetName=NetS11_1 Pin=S11-1
+Added Pin To Net: NetName=NetS11_1 Pin=S11-2
+Added Net: Name=NetS11_1
+Added Pin To Net: NetName=NetS11_3 Pin=S11-3
+Added Pin To Net: NetName=NetS11_3 Pin=S11-4
+Added Net: Name=NetS11_3
+Added Pin To Net: NetName=NetS12_1 Pin=S12-1
+Added Pin To Net: NetName=NetS12_1 Pin=S12-2
+Added Net: Name=NetS12_1
+Added Pin To Net: NetName=NetS12_3 Pin=S12-3
+Added Pin To Net: NetName=NetS12_3 Pin=S12-4
+Added Net: Name=NetS12_3
+Added Pin To Net: NetName=RF1 Pin=S1-5
+Added Pin To Net: NetName=RF1 Pin=U1-1
+Added Pin To Net: NetName=RF1 Pin=U1-1
+Added Pin To Net: NetName=RF1 Pin=U1-2
+Added Pin To Net: NetName=RF1 Pin=U1-2
+Added Pin To Net: NetName=RF1 Pin=U1-3
+Added Pin To Net: NetName=RF1 Pin=U1-3
+Added Pin To Net: NetName=RF1 Pin=U1-4
+Added Pin To Net: NetName=RF1 Pin=U1-4
+Added Net: Name=RF1
+Added Member To Class: ClassName=sheet1 Member=Component C1 C0603
+Added Member To Class: ClassName=sheet1 Member=Component C2 C0603
+Added Member To Class: ClassName=sheet1 Member=Component C3 C0603
+Added Member To Class: ClassName=sheet1 Member=Component C4 C0603
+Added Member To Class: ClassName=sheet1 Member=Component C5 C0603
+Added Member To Class: ClassName=sheet1 Member=Component C6 C0603
+Added Member To Class: ClassName=sheet1 Member=Component C7 C0603
+Added Member To Class: ClassName=sheet1 Member=Component C8 C0603
+Added Member To Class: ClassName=sheet1 Member=Component C9 C0603
+Added Member To Class: ClassName=sheet1 Member=Component C10 C0603
+Added Member To Class: ClassName=sheet1 Member=Component C11 C0603
+Added Member To Class: ClassName=sheet1 Member=Component C12 C0603
+Added Member To Class: ClassName=sheet1 Member=Component C13 C0603
+Added Member To Class: ClassName=sheet1 Member=Component C14 C0603
+Added Member To Class: ClassName=sheet1 Member=Component C15 C0603
+Added Member To Class: ClassName=sheet1 Member=Component C16 C0603
+Added Member To Class: ClassName=sheet1 Member=Component C17 C0603
+Added Member To Class: ClassName=sheet1 Member=Component C18 C0603
+Added Member To Class: ClassName=sheet1 Member=Component C19 C0603
+Added Member To Class: ClassName=sheet1 Member=Component C? C0603
+Added Member To Class: ClassName=sheet1 Member=Component C? C0603
+Added Member To Class: ClassName=sheet1 Member=Component C? C0603
+Added Member To Class: ClassName=sheet1 Member=Component C? C0603
+Added Member To Class: ClassName=sheet1 Member=Component C? C0603
+Added Member To Class: ClassName=sheet1 Member=Component H1 20P
+Added Member To Class: ClassName=sheet1 Member=Component H2 20P
+Added Member To Class: ClassName=sheet1 Member=Component S1 BWSMA
+Added Member To Class: ClassName=sheet1 Member=Component S3 BWSMA
+Added Member To Class: ClassName=sheet1 Member=Component S4 BWSMA
+Added Member To Class: ClassName=sheet1 Member=Component S5 BWSMA
+Added Member To Class: ClassName=sheet1 Member=Component S6 BWSMA
+Added Member To Class: ClassName=sheet1 Member=Component S7 BWSMA
+Added Member To Class: ClassName=sheet1 Member=Component S8 BWSMA
+Added Member To Class: ClassName=sheet1 Member=Component S9 BWSMA
+Added Member To Class: ClassName=sheet1 Member=Component S10 BWSMA
+Added Member To Class: ClassName=sheet1 Member=Component S11 BWSMA
+Added Member To Class: ClassName=sheet1 Member=Component S12 BWSMA
+Added Rule: Name=Schematic Supply Nets

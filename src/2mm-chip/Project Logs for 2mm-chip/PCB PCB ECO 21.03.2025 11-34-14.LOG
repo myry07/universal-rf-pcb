@@ -1,0 +1,15 @@
+Change Component Designator: OldDesignator=Chip NewDesignator=U1
+Change Component Designator: OldDesignator=RX NewDesignator=S2
+Change Component Designator: OldDesignator=RX NewDesignator=S6
+Change Component Designator: OldDesignator=RX NewDesignator=S11
+Change Component Designator: OldDesignator=RX NewDesignator=S14
+Change Component Designator: OldDesignator=TX NewDesignator=S3
+Change Component Designator: OldDesignator=TX NewDesignator=S7
+Change Component Designator: OldDesignator=TX NewDesignator=S12
+Change Component Designator: OldDesignator=TX NewDesignator=S13
+Added Member To Class: ClassName=sheet1 Member=Component S2 BWSMA
+Added Member To Class: ClassName=sheet1 Member=Component S3 BWSMA
+Added Member To Class: ClassName=sheet1 Member=Component S7 BWSMA
+Added Member To Class: ClassName=sheet1 Member=Component S11 BWSMA
+Added Member To Class: ClassName=sheet1 Member=Component S12 BWSMA
+Added Member To Class: ClassName=sheet1 Member=Component S14 BWSMA

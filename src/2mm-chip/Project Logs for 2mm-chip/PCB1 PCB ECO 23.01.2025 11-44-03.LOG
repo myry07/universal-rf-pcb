@@ -1,0 +1,16 @@
+Removed Member From Class: ClassName=sheet1 Member=S22
+Change Component Designator: OldDesignator=S5 NewDesignator=S2
+Change Component Designator: OldDesignator=S6 NewDesignator=S7
+Change Component Designator: OldDesignator=S7 NewDesignator=S3
+Change Component Designator: OldDesignator=S8 NewDesignator=S6
+Change Component Designator: OldDesignator=S12 NewDesignator=S5
+Change Component Designator: OldDesignator=S15 NewDesignator=S4
+Change Component Designator: OldDesignator=S22 NewDesignator=S8
+Change Component Designator: OldDesignator=S25 NewDesignator=S9
+Change Component Designator: OldDesignator=S26 NewDesignator=S10
+Change Component Designator: OldDesignator=S27 NewDesignator=S11
+Change Component Designator: OldDesignator=S28 NewDesignator=S12
+Change Component Designator: OldDesignator=S29 NewDesignator=S13
+Change Component Designator: OldDesignator=S30 NewDesignator=S14
+Change Net Name : Old Net Name=NetS25_5 New Net Name=NetS9_5
+Added Member To Class: ClassName=sheet1 Member=Component S7 BWSMA

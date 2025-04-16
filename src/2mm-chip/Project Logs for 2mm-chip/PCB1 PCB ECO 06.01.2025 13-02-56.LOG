@@ -1,0 +1,116 @@
+Added Component: Designator=S13(BWSMA)
+Added Component: Designator=S14(BWSMA)
+Added Component: Designator=S15(BWSMA)
+Added Component: Designator=S16(BWSMA)
+Added Component: Designator=S17(BWSMA)
+Added Component: Designator=S18(BWSMA)
+Added Component: Designator=S19(BWSMA)
+Added Component: Designator=S20(BWSMA)
+Added Component: Designator=S21(BWSMA)
+Added Component: Designator=S22(BWSMA)
+Added Component: Designator=S23(BWSMA)
+Added Component: Designator=S24(BWSMA)
+Added Pin To Net: NetName=GND Pin=S13-1
+Added Pin To Net: NetName=GND Pin=S13-2
+Added Pin To Net: NetName=GND Pin=S13-3
+Added Pin To Net: NetName=GND Pin=S13-4
+Added Pin To Net: NetName=GND Pin=S14-1
+Added Pin To Net: NetName=GND Pin=S14-2
+Added Pin To Net: NetName=GND Pin=S14-3
+Added Pin To Net: NetName=GND Pin=S14-4
+Added Pin To Net: NetName=GND Pin=S15-1
+Added Pin To Net: NetName=GND Pin=S15-2
+Added Pin To Net: NetName=GND Pin=S15-3
+Added Pin To Net: NetName=GND Pin=S15-4
+Added Pin To Net: NetName=GND Pin=S16-1
+Added Pin To Net: NetName=GND Pin=S16-2
+Added Pin To Net: NetName=GND Pin=S16-3
+Added Pin To Net: NetName=GND Pin=S16-4
+Added Pin To Net: NetName=GND Pin=S17-1
+Added Pin To Net: NetName=GND Pin=S17-2
+Added Pin To Net: NetName=GND Pin=S17-3
+Added Pin To Net: NetName=GND Pin=S17-4
+Added Pin To Net: NetName=GND Pin=S18-1
+Added Pin To Net: NetName=GND Pin=S18-2
+Added Pin To Net: NetName=GND Pin=S18-3
+Added Pin To Net: NetName=GND Pin=S18-4
+Added Pin To Net: NetName=GND Pin=S19-1
+Added Pin To Net: NetName=GND Pin=S19-2
+Added Pin To Net: NetName=GND Pin=S19-3
+Added Pin To Net: NetName=GND Pin=S19-4
+Added Pin To Net: NetName=GND Pin=S20-1
+Added Pin To Net: NetName=GND Pin=S20-2
+Added Pin To Net: NetName=GND Pin=S20-3
+Added Pin To Net: NetName=GND Pin=S20-4
+Added Pin To Net: NetName=GND Pin=S21-1
+Added Pin To Net: NetName=GND Pin=S21-2
+Added Pin To Net: NetName=GND Pin=S21-3
+Added Pin To Net: NetName=GND Pin=S21-4
+Added Pin To Net: NetName=GND Pin=S22-1
+Added Pin To Net: NetName=GND Pin=S22-2
+Added Pin To Net: NetName=GND Pin=S22-3
+Added Pin To Net: NetName=GND Pin=S22-4
+Added Pin To Net: NetName=GND Pin=S23-1
+Added Pin To Net: NetName=GND Pin=S23-2
+Added Pin To Net: NetName=GND Pin=S23-3
+Added Pin To Net: NetName=GND Pin=S23-4
+Added Pin To Net: NetName=GND Pin=S24-1
+Added Pin To Net: NetName=GND Pin=S24-2
+Added Pin To Net: NetName=GND Pin=S24-3
+Added Pin To Net: NetName=GND Pin=S24-4
+Added Pin To Net: NetName=RF13 Pin=S13-5
+Added Pin To Net: NetName=RF13 Pin=U1-7
+Added Pin To Net: NetName=RF13 Pin=U1-7
+Added Net: Name=RF13
+Added Pin To Net: NetName=RF14 Pin=S15-5
+Added Pin To Net: NetName=RF14 Pin=U1-8
+Added Pin To Net: NetName=RF14 Pin=U1-8
+Added Net: Name=RF14
+Added Pin To Net: NetName=RF15_N Pin=S19-5
+Added Net: Name=RF15_N
+Added Pin To Net: NetName=RF15_P Pin=S17-5
+Added Net: Name=RF15_P
+Added Pin To Net: NetName=RF17 Pin=S21-5
+Added Pin To Net: NetName=RF17 Pin=U1-11
+Added Pin To Net: NetName=RF17 Pin=U1-11
+Added Net: Name=RF17
+Added Pin To Net: NetName=RF18 Pin=S23-5
+Added Pin To Net: NetName=RF18 Pin=U1-12
+Added Pin To Net: NetName=RF18 Pin=U1-12
+Added Net: Name=RF18
+Added Pin To Net: NetName=RF19 Pin=S14-5
+Added Pin To Net: NetName=RF19 Pin=U1-25
+Added Pin To Net: NetName=RF19 Pin=U1-25
+Added Net: Name=RF19
+Added Pin To Net: NetName=RF20 Pin=S16-5
+Added Pin To Net: NetName=RF20 Pin=U1-26
+Added Pin To Net: NetName=RF20 Pin=U1-26
+Added Net: Name=RF20
+Added Pin To Net: NetName=RF21_N Pin=S20-5
+Added Pin To Net: NetName=RF21_N Pin=U1-28
+Added Pin To Net: NetName=RF21_N Pin=U1-28
+Added Net: Name=RF21_N
+Added Pin To Net: NetName=RF21_P Pin=S18-5
+Added Pin To Net: NetName=RF21_P Pin=U1-27
+Added Pin To Net: NetName=RF21_P Pin=U1-27
+Added Net: Name=RF21_P
+Added Pin To Net: NetName=RF23 Pin=S22-5
+Added Pin To Net: NetName=RF23 Pin=U1-29
+Added Pin To Net: NetName=RF23 Pin=U1-29
+Added Net: Name=RF23
+Added Pin To Net: NetName=RF24 Pin=S24-5
+Added Pin To Net: NetName=RF24 Pin=U1-30
+Added Pin To Net: NetName=RF24 Pin=U1-30
+Added Net: Name=RF24
+Added Member To Class: ClassName=sheet1 Member=Component S13 BWSMA
+Added Member To Class: ClassName=sheet1 Member=Component S14 BWSMA
+Added Member To Class: ClassName=sheet1 Member=Component S15 BWSMA
+Added Member To Class: ClassName=sheet1 Member=Component S16 BWSMA
+Added Member To Class: ClassName=sheet1 Member=Component S17 BWSMA
+Added Member To Class: ClassName=sheet1 Member=Component S18 BWSMA
+Added Member To Class: ClassName=sheet1 Member=Component S19 BWSMA
+Added Member To Class: ClassName=sheet1 Member=Component S20 BWSMA
+Added Member To Class: ClassName=sheet1 Member=Component S21 BWSMA
+Added Member To Class: ClassName=sheet1 Member=Component S22 BWSMA
+Added Member To Class: ClassName=sheet1 Member=Component S23 BWSMA
+Added Member To Class: ClassName=sheet1 Member=Component S24 BWSMA

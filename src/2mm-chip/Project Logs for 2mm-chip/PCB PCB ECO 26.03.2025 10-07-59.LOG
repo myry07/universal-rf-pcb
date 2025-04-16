@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=GND Pin=-1
+Removed Pin From Net: NetName=GND Pin=-1
+Removed Pin From Net: NetName=RF1 Pin=-2
+Removed Pin From Net: NetName=RF1 Pin=-2
+Removed Pin From Net: NetName=RF2 Pin=-5
+Removed Pin From Net: NetName=RF2 Pin=-5
+Removed Pin From Net: NetName=GND Pin=-6
+Removed Pin From Net: NetName=GND Pin=-6
+Change Component Designator: OldDesignator= NewDesignator=U1
+Added Pin To Net: NetName=RF1 Pin=U1-1
+Added Pin To Net: NetName=RF1 Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U1-5
+Added Pin To Net: NetName=GND Pin=U1-5
+Added Pin To Net: NetName=RF2 Pin=U1-6
+Added Pin To Net: NetName=RF2 Pin=U1-6

@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=RF7 Pin=U1-25
+Removed Pin From Net: NetName=RF7 Pin=U1-25
+Removed Pin From Net: NetName=RF8 Pin=U1-26
+Removed Pin From Net: NetName=RF8 Pin=U1-26
+Removed Pin From Net: NetName=RF9_P Pin=U1-27
+Removed Pin From Net: NetName=RF9_P Pin=U1-27
+Removed Pin From Net: NetName=RF9_N Pin=U1-28
+Removed Pin From Net: NetName=RF9_N Pin=U1-28
+Removed Pin From Net: NetName=RF11 Pin=U1-29
+Removed Pin From Net: NetName=RF11 Pin=U1-29
+Removed Pin From Net: NetName=RF12 Pin=U1-30
+Removed Pin From Net: NetName=RF12 Pin=U1-30
+Added Pin To Net: NetName=RF7 Pin=U1-31
+Added Pin To Net: NetName=RF7 Pin=U1-31
+Added Pin To Net: NetName=RF8 Pin=U1-32
+Added Pin To Net: NetName=RF8 Pin=U1-32
+Added Pin To Net: NetName=RF9_P Pin=U1-33
+Added Pin To Net: NetName=RF9_P Pin=U1-33
+Added Pin To Net: NetName=RF9_N Pin=U1-34
+Added Pin To Net: NetName=RF9_N Pin=U1-34
+Added Pin To Net: NetName=RF11 Pin=U1-35
+Added Pin To Net: NetName=RF11 Pin=U1-35
+Added Pin To Net: NetName=RF12 Pin=U1-36
+Added Pin To Net: NetName=RF12 Pin=U1-36
+Added Member To Class: ClassName=sheet1 Member=Component C? C0603
+Added Member To Class: ClassName=sheet1 Member=Component C? C0603
+Added Member To Class: ClassName=sheet1 Member=Component C? C0603
+Added Member To Class: ClassName=sheet1 Member=Component C? C0603

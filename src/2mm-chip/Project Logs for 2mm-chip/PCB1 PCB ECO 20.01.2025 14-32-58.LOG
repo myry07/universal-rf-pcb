@@ -1,0 +1,12 @@
+Change Component Designator: OldDesignator=Chip NewDesignator=U1
+Change Component Designator: OldDesignator=RX1 NewDesignator=S8
+Change Component Designator: OldDesignator=RX2 NewDesignator=S18
+Change Component Designator: OldDesignator=RX3 NewDesignator=S5
+Change Component Designator: OldDesignator=RX4 NewDesignator=S19
+Change Component Designator: OldDesignator=TX1 NewDesignator=S6
+Change Component Designator: OldDesignator=TX2 NewDesignator=S20
+Change Component Designator: OldDesignator=TX3 NewDesignator=S7
+Change Component Designator: OldDesignator=TX4 NewDesignator=S17
+Add Component: Footprint Not Found C0402
+Added Member To Class: ClassName=sheet1 Member=Component C23 C0603
+Add Class Member: Failed to add class member : Component C? C0402

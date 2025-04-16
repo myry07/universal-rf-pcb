@@ -1,0 +1,232 @@
+Add Component: Footprint Not Found C0603
+Add Component: Footprint Not Found C0603
+Add Component: Footprint Not Found C0603
+Add Component: Footprint Not Found C0603
+Add Component: Footprint Not Found C0603
+Add Component: Footprint Not Found C0603
+Add Component: Footprint Not Found C0603
+Add Component: Footprint Not Found C0603
+Add Component: Footprint Not Found C0603
+Add Component: Footprint Not Found C0603
+Add Component: Footprint Not Found C0603
+Add Component: Footprint Not Found C0603
+Add Component: Footprint Not Found C0603
+Add Component: Footprint Not Found C0603
+Add Component: Footprint Not Found C0603
+Add Component: Footprint Not Found C0603
+Added Component: Designator=H1(8P)
+Added Component: Designator=H2(8P)
+Add Component: Footprint Not Found BWSMA
+Add Component: Footprint Not Found BWSMA
+Add Component: Footprint Not Found BWSMA
+Add Component: Footprint Not Found BWSMA
+Add Component: Footprint Not Found BWSMA
+Add Component: Footprint Not Found BWSMA
+Add Component: Footprint Not Found BWSMA
+Add Component: Footprint Not Found BWSMA
+Add Component: Footprint Not Found BWSMA
+Add Component: Footprint Not Found BWSMA
+Add Component: Footprint Not Found BWSMA
+Add Component: Footprint Not Found BWSMA
+Add Component: Footprint Not Found BWSMA
+Add Component: Footprint Not Found BWSMA
+Added Component: Designator=U1(2MM_8AC_16DC)
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin C2-1
+Add Pin To Net: Unknown Pin: Pin C2-2
+Add Pin To Net: Unknown Pin: Pin C3-1
+Add Pin To Net: Unknown Pin: Pin C3-2
+Add Pin To Net: Unknown Pin: Pin C4-1
+Add Pin To Net: Unknown Pin: Pin C4-2
+Add Pin To Net: Unknown Pin: Pin C5-1
+Add Pin To Net: Unknown Pin: Pin C5-2
+Add Pin To Net: Unknown Pin: Pin C6-1
+Add Pin To Net: Unknown Pin: Pin C6-2
+Add Pin To Net: Unknown Pin: Pin C7-1
+Add Pin To Net: Unknown Pin: Pin C7-2
+Add Pin To Net: Unknown Pin: Pin C8-1
+Add Pin To Net: Unknown Pin: Pin C8-2
+Add Pin To Net: Unknown Pin: Pin C9-1
+Add Pin To Net: Unknown Pin: Pin C9-2
+Add Pin To Net: Unknown Pin: Pin C10-1
+Add Pin To Net: Unknown Pin: Pin C10-2
+Add Pin To Net: Unknown Pin: Pin C11-1
+Add Pin To Net: Unknown Pin: Pin C11-2
+Add Pin To Net: Unknown Pin: Pin C12-1
+Add Pin To Net: Unknown Pin: Pin C12-2
+Add Pin To Net: Unknown Pin: Pin C13-1
+Add Pin To Net: Unknown Pin: Pin C13-2
+Add Pin To Net: Unknown Pin: Pin C14-1
+Add Pin To Net: Unknown Pin: Pin C14-2
+Add Pin To Net: Unknown Pin: Pin C15-1
+Add Pin To Net: Unknown Pin: Pin C15-2
+Add Pin To Net: Unknown Pin: Pin C16-1
+Add Pin To Net: Unknown Pin: Pin C16-2
+Added Pin To Net: NetName=NetC1_1 Pin=H1-1
+Added Pin To Net: NetName=NetC6_2 Pin=H1-2
+Added Pin To Net: NetName=NetC7_2 Pin=H1-3
+Added Pin To Net: NetName=NetC8_2 Pin=H1-4
+Added Pin To Net: NetName=NetC9_2 Pin=H1-5
+Added Pin To Net: NetName=NetC10_2 Pin=H1-6
+Added Pin To Net: NetName=NetC11_2 Pin=H1-7
+Added Pin To Net: NetName=NetC12_2 Pin=H1-8
+Added Pin To Net: NetName=NetC2_1 Pin=H2-1
+Added Pin To Net: NetName=NetC3_1 Pin=H2-2
+Added Pin To Net: NetName=NetC4_1 Pin=H2-3
+Added Pin To Net: NetName=NetC5_1 Pin=H2-4
+Added Pin To Net: NetName=NetC13_2 Pin=H2-5
+Added Pin To Net: NetName=NetC14_2 Pin=H2-6
+Added Pin To Net: NetName=NetC15_2 Pin=H2-7
+Added Pin To Net: NetName=NetC16_2 Pin=H2-8
+Add Pin To Net: Unknown Pin: Pin S1-1
+Add Pin To Net: Unknown Pin: Pin S1-2
+Add Pin To Net: Unknown Pin: Pin S1-3
+Add Pin To Net: Unknown Pin: Pin S1-4
+Add Pin To Net: Unknown Pin: Pin S1-5
+Add Pin To Net: Unknown Pin: Pin S5-1
+Add Pin To Net: Unknown Pin: Pin S5-2
+Add Pin To Net: Unknown Pin: Pin S5-3
+Add Pin To Net: Unknown Pin: Pin S5-4
+Add Pin To Net: Unknown Pin: Pin S5-5
+Add Pin To Net: Unknown Pin: Pin S6-1
+Add Pin To Net: Unknown Pin: Pin S6-2
+Add Pin To Net: Unknown Pin: Pin S6-3
+Add Pin To Net: Unknown Pin: Pin S6-4
+Add Pin To Net: Unknown Pin: Pin S6-5
+Add Pin To Net: Unknown Pin: Pin S7-1
+Add Pin To Net: Unknown Pin: Pin S7-2
+Add Pin To Net: Unknown Pin: Pin S7-3
+Add Pin To Net: Unknown Pin: Pin S7-4
+Add Pin To Net: Unknown Pin: Pin S7-5
+Add Pin To Net: Unknown Pin: Pin S8-1
+Add Pin To Net: Unknown Pin: Pin S8-2
+Add Pin To Net: Unknown Pin: Pin S8-3
+Add Pin To Net: Unknown Pin: Pin S8-4
+Add Pin To Net: Unknown Pin: Pin S8-5
+Add Pin To Net: Unknown Pin: Pin S12-1
+Add Pin To Net: Unknown Pin: Pin S12-2
+Add Pin To Net: Unknown Pin: Pin S12-3
+Add Pin To Net: Unknown Pin: Pin S12-4
+Add Pin To Net: Unknown Pin: Pin S12-5
+Add Pin To Net: Unknown Pin: Pin S15-1
+Add Pin To Net: Unknown Pin: Pin S15-2
+Add Pin To Net: Unknown Pin: Pin S15-3
+Add Pin To Net: Unknown Pin: Pin S15-4
+Add Pin To Net: Unknown Pin: Pin S15-5
+Add Pin To Net: Unknown Pin: Pin S22-1
+Add Pin To Net: Unknown Pin: Pin S22-2
+Add Pin To Net: Unknown Pin: Pin S22-3
+Add Pin To Net: Unknown Pin: Pin S22-4
+Add Pin To Net: Unknown Pin: Pin S22-5
+Add Pin To Net: Unknown Pin: Pin S25-1
+Add Pin To Net: Unknown Pin: Pin S25-2
+Add Pin To Net: Unknown Pin: Pin S25-3
+Add Pin To Net: Unknown Pin: Pin S25-4
+Add Pin To Net: Unknown Pin: Pin S25-5
+Add Pin To Net: Unknown Pin: Pin S26-1
+Add Pin To Net: Unknown Pin: Pin S26-2
+Add Pin To Net: Unknown Pin: Pin S26-3
+Add Pin To Net: Unknown Pin: Pin S26-4
+Add Pin To Net: Unknown Pin: Pin S26-5
+Add Pin To Net: Unknown Pin: Pin S27-1
+Add Pin To Net: Unknown Pin: Pin S27-2
+Add Pin To Net: Unknown Pin: Pin S27-3
+Add Pin To Net: Unknown Pin: Pin S27-4
+Add Pin To Net: Unknown Pin: Pin S27-5
+Add Pin To Net: Unknown Pin: Pin S28-1
+Add Pin To Net: Unknown Pin: Pin S28-2
+Add Pin To Net: Unknown Pin: Pin S28-3
+Add Pin To Net: Unknown Pin: Pin S28-4
+Add Pin To Net: Unknown Pin: Pin S28-5
+Add Pin To Net: Unknown Pin: Pin S29-1
+Add Pin To Net: Unknown Pin: Pin S29-2
+Add Pin To Net: Unknown Pin: Pin S29-3
+Add Pin To Net: Unknown Pin: Pin S29-4
+Add Pin To Net: Unknown Pin: Pin S29-5
+Add Pin To Net: Unknown Pin: Pin S30-1
+Add Pin To Net: Unknown Pin: Pin S30-2
+Add Pin To Net: Unknown Pin: Pin S30-3
+Add Pin To Net: Unknown Pin: Pin S30-4
+Add Pin To Net: Unknown Pin: Pin S30-5
+Added Pin To Net: NetName=NetC1_1 Pin=U1-1
+Added Pin To Net: NetName=NetC1_1 Pin=U1-1
+Added Pin To Net: NetName=RF1 Pin=U1-2
+Added Pin To Net: NetName=RF1 Pin=U1-2
+Added Pin To Net: NetName=RF1_P Pin=U1-3
+Added Pin To Net: NetName=RF1_P Pin=U1-3
+Added Pin To Net: NetName=RF1_N Pin=U1-4
+Added Pin To Net: NetName=RF1_N Pin=U1-4
+Added Pin To Net: NetName=RF2 Pin=U1-5
+Added Pin To Net: NetName=RF2 Pin=U1-5
+Added Pin To Net: NetName=NetC6_2 Pin=U1-6
+Added Pin To Net: NetName=NetC6_2 Pin=U1-6
+Added Pin To Net: NetName=NetC7_2 Pin=U1-7
+Added Pin To Net: NetName=NetC7_2 Pin=U1-7
+Added Pin To Net: NetName=NetC8_2 Pin=U1-8
+Added Pin To Net: NetName=NetC8_2 Pin=U1-8
+Added Pin To Net: NetName=NetC9_2 Pin=U1-9
+Added Pin To Net: NetName=NetC9_2 Pin=U1-9
+Added Pin To Net: NetName=NetC10_2 Pin=U1-10
+Added Pin To Net: NetName=NetC10_2 Pin=U1-10
+Added Pin To Net: NetName=NetC11_2 Pin=U1-11
+Added Pin To Net: NetName=NetC11_2 Pin=U1-11
+Added Pin To Net: NetName=NetC12_2 Pin=U1-12
+Added Pin To Net: NetName=NetC12_2 Pin=U1-12
+Added Pin To Net: NetName=RF3 Pin=U1-13
+Added Pin To Net: NetName=RF3 Pin=U1-13
+Added Pin To Net: NetName=RF2_N Pin=U1-14
+Added Pin To Net: NetName=RF2_N Pin=U1-14
+Added Pin To Net: NetName=RF2_P Pin=U1-15
+Added Pin To Net: NetName=RF2_P Pin=U1-15
+Added Pin To Net: NetName=RF4 Pin=U1-16
+Added Pin To Net: NetName=RF4 Pin=U1-16
+Added Pin To Net: NetName=NetC2_1 Pin=U1-17
+Added Pin To Net: NetName=NetC2_1 Pin=U1-17
+Added Pin To Net: NetName=NetC3_1 Pin=U1-18
+Added Pin To Net: NetName=NetC3_1 Pin=U1-18
+Added Pin To Net: NetName=NetC4_1 Pin=U1-19
+Added Pin To Net: NetName=NetC4_1 Pin=U1-19
+Added Pin To Net: NetName=NetC5_1 Pin=U1-20
+Added Pin To Net: NetName=NetC5_1 Pin=U1-20
+Added Pin To Net: NetName=NetC13_2 Pin=U1-21
+Added Pin To Net: NetName=NetC13_2 Pin=U1-21
+Added Pin To Net: NetName=NetC14_2 Pin=U1-22
+Added Pin To Net: NetName=NetC14_2 Pin=U1-22
+Added Pin To Net: NetName=NetC15_2 Pin=U1-23
+Added Pin To Net: NetName=NetC15_2 Pin=U1-23
+Added Pin To Net: NetName=NetC16_2 Pin=U1-24
+Added Pin To Net: NetName=NetC16_2 Pin=U1-24
+Add Class Member: Failed to add class member : Component C1 C0603
+Add Class Member: Failed to add class member : Component C2 C0603
+Add Class Member: Failed to add class member : Component C3 C0603
+Add Class Member: Failed to add class member : Component C4 C0603
+Add Class Member: Failed to add class member : Component C5 C0603
+Add Class Member: Failed to add class member : Component C6 C0603
+Add Class Member: Failed to add class member : Component C7 C0603
+Add Class Member: Failed to add class member : Component C8 C0603
+Add Class Member: Failed to add class member : Component C9 C0603
+Add Class Member: Failed to add class member : Component C10 C0603
+Add Class Member: Failed to add class member : Component C11 C0603
+Add Class Member: Failed to add class member : Component C12 C0603
+Add Class Member: Failed to add class member : Component C13 C0603
+Add Class Member: Failed to add class member : Component C14 C0603
+Add Class Member: Failed to add class member : Component C15 C0603
+Add Class Member: Failed to add class member : Component C16 C0603
+Added Member To Class: ClassName=sheet1 Member=Component H1 8P
+Added Member To Class: ClassName=sheet1 Member=Component H2 8P
+Add Class Member: Failed to add class member : Component S1 BWSMA
+Add Class Member: Failed to add class member : Component S5 BWSMA
+Add Class Member: Failed to add class member : Component S6 BWSMA
+Add Class Member: Failed to add class member : Component S7 BWSMA
+Add Class Member: Failed to add class member : Component S8 BWSMA
+Add Class Member: Failed to add class member : Component S12 BWSMA
+Add Class Member: Failed to add class member : Component S15 BWSMA
+Add Class Member: Failed to add class member : Component S22 BWSMA
+Add Class Member: Failed to add class member : Component S25 BWSMA
+Add Class Member: Failed to add class member : Component S26 BWSMA
+Add Class Member: Failed to add class member : Component S27 BWSMA
+Add Class Member: Failed to add class member : Component S28 BWSMA
+Add Class Member: Failed to add class member : Component S29 BWSMA
+Add Class Member: Failed to add class member : Component S30 BWSMA
+Added Member To Class: ClassName=sheet1 Member=Component U1 2mm_24p

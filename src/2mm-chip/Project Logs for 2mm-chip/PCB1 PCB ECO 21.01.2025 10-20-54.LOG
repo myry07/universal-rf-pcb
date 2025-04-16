@@ -1,0 +1,14 @@
+Added Component: Designator=S25(BWSMA)
+Added Component: Designator=S26(BWSMA)
+Added Pin To Net: NetName=GND Pin=S25-1
+Added Pin To Net: NetName=GND Pin=S25-2
+Added Pin To Net: NetName=GND Pin=S25-3
+Added Pin To Net: NetName=GND Pin=S25-4
+Added Pin To Net: NetName=NetS25_5 Pin=S25-5
+Added Pin To Net: NetName=GND Pin=S26-1
+Added Pin To Net: NetName=GND Pin=S26-2
+Added Pin To Net: NetName=GND Pin=S26-3
+Added Pin To Net: NetName=GND Pin=S26-4
+Added Pin To Net: NetName=NetS25_5 Pin=S26-5
+Added Member To Class: ClassName=sheet1 Member=Component S25 BWSMA
+Added Member To Class: ClassName=sheet1 Member=Component S26 BWSMA

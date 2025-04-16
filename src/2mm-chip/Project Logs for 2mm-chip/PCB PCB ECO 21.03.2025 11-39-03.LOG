@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=RF_N Pin=S11-5
+Added Pin To Net: NetName=RF_N Pin=S12-5
+Added Member To Class: ClassName=sheet1 Member=Component S6 BWSMA
+Added Member To Class: ClassName=sheet1 Member=Component S13 BWSMA
