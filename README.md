@@ -1,6 +1,6 @@
 # universal-rf-pcb
 
-Supervisor: Mr. Axel[https://www.tu-braunschweig.de/cmos/team/wissenschaftliche-mitarbeiterinnen/axel-engelhardt]  
+Supervisor: [Mr. Axel](https://www.tu-braunschweig.de/cmos/team/wissenschaftliche-mitarbeiterinnen/axel-engelhardt)  
 
 Hello this is my first hiwi task. In this task, I first learned how to use Altium Designer. Then, I created the component libraries and designed the schematic. It was not difficult. Because there were not so manany componens. The layout is the important part of this task.
 
