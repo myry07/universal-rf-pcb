@@ -57,7 +57,7 @@ In version V2.0, an SMA edge-mount connector was used, and the simulation result
 
 
 <div align=center>
-	<img src="https://github.com/myry07/universal-rf-pcb/blob/main/jpg/s11.png?raw=true" width="600" height="300">
+	<img src="https://github.com/myry07/universal-rf-pcb/blob/main/jpg/s11.PNG?raw=true" width="600" height="300">
 </div>
 
 <div align=center>
@@ -65,11 +65,11 @@ In version V2.0, an SMA edge-mount connector was used, and the simulation result
 </div>
 
 <div align=center>
-	<img src="https://github.com/myry07/universal-rf-pcb/blob/main/jpg/s21.png?raw=true" width="600" height="300">
+	<img src="https://github.com/myry07/universal-rf-pcb/blob/main/jpg/s21.PNG?raw=true" width="600" height="300">
 </div>
 
 <div align=center>
-	<img src="https://github.com/myry07/universal-rf-pcb/blob/main/jpg/s22.png?raw=true" width="600" height="300">
+	<img src="https://github.com/myry07/universal-rf-pcb/blob/main/jpg/s22.PNG?raw=true" width="600" height="300">
 </div>
 
 
